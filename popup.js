@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', async () => {
     const problemTextarea = document.getElementById('problemText');
-    const solveButton = document.getElementById('solveButton');
+    const solveButton = document.getElementById('solveButton'); 
     const solutionOutput = document.getElementById('solutionOutput');
     const loadingIndicator = document.getElementById('loadingIndicator');
 
